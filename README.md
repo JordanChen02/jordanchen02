@@ -82,51 +82,51 @@ iterate quickly from real-world feedback.
   <img
     src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"
     alt="Python"
-    height="22"
+    height="26"
   />
   <img
     src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"
     alt="TypeScript"
-    height="22"
+    height="26"
   />
   <img
     src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"
     alt="React"
-    height="22"
+    height="26"
   />
   <img
     src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white"
     alt="Vite"
-    height="22"
+    height="26"
   />
   <img
     src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"
     alt="PostgreSQL"
-    height="22"
+    height="26"
   />
   <img
     src="https://img.shields.io/badge/Supabase-181818?style=flat-square&logo=supabase&logoColor=3FCF8E"
     alt="Supabase"
-    height="22"
+    height="26"
   />
   <img
     src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white"
     alt="Vercel"
-    height="22"
+    height="26"
   />
   <img
     src="https://img.shields.io/badge/Railway-0B0D0E?style=flat-square&logo=railway&logoColor=white"
     alt="Railway"
-    height="22"
+    height="26"
   />
   <img
     src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"
     alt="Pandas"
-    height="22"
+    height="26"
   />
   <img
     src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"
     alt="Git"
-    height="22"
+    height="26"
   />
 </p>
