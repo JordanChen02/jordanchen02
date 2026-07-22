@@ -1,6 +1,6 @@
 <p align="center">
   <img
-    src="./assets/profile-header.svg"
+    src="./assets/profile-header.png"
     alt="Jordan Chen — Building products across trading, health, data, and AI"
     width="100%"
   />
